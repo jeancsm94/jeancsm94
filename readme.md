@@ -28,4 +28,5 @@ Sou tecladista e estou estudando produção musical (mixagem, edição de áudio
 
 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/jeandossantosmd) · Canoas/RS
 
-![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancsm94&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Jean GitHub stats](https://github-stats-extended.vercel.app/api?username=jeancsm94)](https://github.com/stats-organization/github-stats-extended)
+
